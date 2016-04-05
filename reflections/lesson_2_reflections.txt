@@ -1,2 +1,5 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: When you initialize a repository you are creating a directory where you can store the metadata of the history of your files. You need to do this so you can store different versions of the file.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area is different from the working directory and the repository because it is a location where you want to add files that you want to commit to the git repository. The working directory allows you to modify files. 
