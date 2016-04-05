@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When you initialize a repository you are creating a directory where you can store the metadata of the history of your files. You need to do this so you can store different versions of the file.
